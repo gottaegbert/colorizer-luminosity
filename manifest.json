@@ -1,7 +1,8 @@
 {
-  "name": "Colorizer",
+  "name": "LuminosityColorizer",
   "id": "816889819624434639",
   "api": "1.0.0",
+    "editorType":["figma", "figjam", "dev"],
   "main": "dist/code.js",
   "ui": "dist/ui.html"
 }
